@@ -25,13 +25,13 @@ Search and source news and content from around the web in realtime. Stay ahead o
 
 Website: [https://newsapi.aylien.com/](https://newsapi.aylien.com/)
 
-- [**Publishing patterns**](https://github.com/AYLIEN/jupyter-notebooks/blob/master/newsapi/avg-weight.ipynb)
+- [**Publishing patterns**](https://github.com/AYLIEN/jupyter-notebooks/blob/master/newsapi/publishing-patterns/avg-weight.ipynb)
 
    This notebook fetches data points from `time_series` endpoint of AYLIEN News API and draws a trend chart to illustrate when is
    the best time to publish an story, article or news. Works with Python 2.x and 3.x.
    
    **Demo:** [http://notebooks.aylien.com/newsapi/publishing-patterns/](http://notebooks.aylien.com/newsapi/publishing-patterns/)
-- [**Headline Analysis**](https://github.com/AYLIEN/jupyter-notebooks/blob/master/newsapi/headline-analysis/main-chunks.ipynb)
+- [**News Headline Analysis**](https://github.com/AYLIEN/jupyter-notebooks/blob/master/newsapi/headline-analysis/main-chunks.ipynb)
 
    In this notebook we explore the similarities and the differences between two journalists in how they write headlines for their articles.
    
